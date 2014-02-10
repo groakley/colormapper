@@ -10,7 +10,13 @@ A Processing library that provides a convenient interface for using Matlab-like 
 
 ## Installation
 
-For detailed installation instructions for contributed libraries visit the official Processing [page](http://wiki.processing.org/w/How_to_Install_a_Contributed_Library).
+Begin by downloading a .zip folder from the releases [directory](https://github.com/groakley/colormapper/tree/master/releases). Unzip it, and inside there is a directory called "ColorMapPer." This directory must be copied into your Processing directory (if it is not named "ColorMapPer", it will not appear in the Processing IDE). 
+
+For detailed installation instructions for installing contributed libraries visit the official Processing [page](http://wiki.processing.org/w/How_to_Install_a_Contributed_Library).
+
+## Building
+
+Follow the instructions laid out in the [template](https://github.com/processing/processing-library-template) Processing library. You will need to change the path in the resources/build.properties to match the location of your Processing directory.
 
 ## License
 
