@@ -2,7 +2,7 @@
 
 A Processing library that provides a convenient interface for using Matlab-like color maps for data visualization.
 
-TODO: Insert a couple of demo pictures here
+![example_color_maps](https://raw.github.com/groakley/web/MapTypes.png)
 
 ## Requirements
 
